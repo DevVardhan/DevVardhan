@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a 3rd year grad @ IIITB<br>Curious to Explore new technologies <br>Currently working on Web dev and Data Engineering projects<br>
+Currently a 3rd year grad @ IIITB<br>Curious to Explore new technologies <br>Currently working on Web dev and Data Engineering projects<br> <br>Open to help any project<br> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevVardhan&theme=dark&hide_border=false)<br/>
