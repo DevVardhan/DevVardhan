@@ -10,7 +10,6 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/dev-vardhan-singh-bhadauria-1b2ab21b5/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn"></a>
 <a href="https://www.geeksforgeeks.org/user/ufo_believer/"><img src="https://img.shields.io/badge/-geeksForGeeks-05122A?style=flat&logo=geeksforgeeks"></a>
 <a href="https://www.codechef.com/users/ufo_beliver"><img src="https://img.shields.io/badge/-Codechef-05122A?style=flat&logo=codechef"></a>
 
