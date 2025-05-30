@@ -1,7 +1,7 @@
 # 💫 About Me:
-- Currently a 3rd year grad @ IIITB<br>
-- Curious to Explore new technologies <br>
+- Currently a final year student @ IIITB<br>
 - Currently working on Web dev and Data Engineering projects<br>
+- Trying to get a job<br>
 - Open to help any project<br> 
 
 # 📊 GitHub Stats:
