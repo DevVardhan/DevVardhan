@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.geeksforgeeks.org/user/ufo_believer/"><img src="https://img.shields.io/badge/-geeksForGeeks-05122A?style=flat&logo=geeksforgeeks"></a>
-<a href="https://www.codechef.com/users/ufo_beliver"><img src="https://img.shields.io/badge/-Codechef-05122A?style=flat&logo=codechef"></a>
+<a href="https://leetcode.com/u/Dev_Vardhan/"><img src="https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=leetcode"></a>
 
 
 # 💻 Tech Stack:
